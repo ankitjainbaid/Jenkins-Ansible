@@ -9,7 +9,7 @@
         <form method="post" action="login.jsp">
             <center>
                 <h1>CI/CD Deployment Using Ansible CM Tool</h1>
-                <h2> Project by Vignesh Dharmaraj </h2>
+                <h2> Project by ANkit Jain </h2>
             <table border="0" width="30%" cellpadding="3">
                 <thead>
                     <tr>
