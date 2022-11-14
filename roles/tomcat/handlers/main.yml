@@ -1,0 +1,4 @@
+---
+- name: restart tomcat
+  shell: /etc/init.d/tomcat.sh stop
+  shell: /etc/init.d/tomcat.sh start
